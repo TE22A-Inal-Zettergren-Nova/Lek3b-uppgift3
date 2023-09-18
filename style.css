@@ -1,0 +1,11 @@
+.top{
+    background-color: #35424a;
+    border: 3px solid #e8491d;
+}
+
+.länk{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    color: white;
+}
